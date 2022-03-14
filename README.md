@@ -60,14 +60,17 @@ Hay dos formas de descargar y preparar haaska. Existe el Método Simple (recomen
 Método simple - Recomendado
 Sigue estos pasos:
 
-Obtenga el último lanzamiento de haaska. Esto generalmente se denomina como haaska_1.1.0.zip, no los archivos de código fuente.
+Obtenga la ultima release de haaska. Esto generalmente se denomina como haaska_1.1.0.zip, no los archivos de código fuente. https://github.com/mike-grant/haaska/releases/latest
 
 Agregue lo siguiente a su archivo configuration.yaml:
 
-API:
+```
+api:
 
-Alexa:
-  casa inteligente:
+alexa:
+  smart_home:
+```  
+  
 Obtenga un token de larga duración. Puedes crear uno dentro de Home Assistant con estos pasos:
 
 Inicie sesión en su instalación de Home Assistant
