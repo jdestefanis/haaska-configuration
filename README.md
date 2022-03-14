@@ -10,13 +10,17 @@ haaska implements a bridge between the [Home Assistant Smart Home API](https://w
 
 This provides voice control for a connected home managed by Home Assistant, through any Alexa-enabled device.
 
+### Getting Started
+To get started, head over to the [haaska Wiki](https://github.com/jdestefanis/wiki).
+
+
 ### Spanish
 haaska implementa un puente entre [Home Assistant Smart Home API](https://www.home-assistant.io/components/alexa/#smart-home) y Alexa [Alexa Smart Home Skill API](https://developer.amazon.com/alexa/smart-home) de Amazon.
 
 Esta integracion provee control de voz para todos los dispositivos que estan controlados y administrados por Home Assistant y cualquier dispositivo Alexa
 
 ### Getting Started
-To get started, head over to the [haaska Wiki](https://github.com/jdestefanis/wiki).
+Para comenzar por favor lea la siguiente guia [haaska Wiki](https://github.com/jdestefanis/wiki).
 
 
 ### Thanks and Acknowledgement
