@@ -4,12 +4,14 @@ Configure Haaska - Configurar Haaska para Home Assistant - Home Assistant Alexa 
 [![Build Status](https://travis-ci.org/mike-grant/haaska.svg?branch=master)](https://travis-ci.org/mike-grant/haaska)
 
 ---
+### English
 
 haaska implements a bridge between the [Home Assistant Smart Home API](https://www.home-assistant.io/components/alexa/#smart-home) and the [Alexa Smart Home Skill API](https://developer.amazon.com/alexa/smart-home) from Amazon.
 
-haaska implementa un puente entre [Home Assistant Smart Home API](https://www.home-assistant.io/components/alexa/#smart-home) y Alexa [Alexa Smart Home Skill API](https://developer.amazon.com/alexa/smart-home) de Amazon.
-
 This provides voice control for a connected home managed by Home Assistant, through any Alexa-enabled device.
+
+### Spanish
+haaska implementa un puente entre [Home Assistant Smart Home API](https://www.home-assistant.io/components/alexa/#smart-home) y Alexa [Alexa Smart Home Skill API](https://developer.amazon.com/alexa/smart-home) de Amazon.
 
 Esta integracion provee control de voz para todos los dispositivos que estan controlados y administrados por Home Assistant y cualquier dispositivo Alexa
 
